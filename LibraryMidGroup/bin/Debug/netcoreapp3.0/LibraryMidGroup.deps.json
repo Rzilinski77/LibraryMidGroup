@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "LibraryMidGroup/1.0.0": {
+        "runtime": {
+          "LibraryMidGroup.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibraryMidGroup/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

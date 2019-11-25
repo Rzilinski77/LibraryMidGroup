@@ -1,0 +1,11 @@
+C:\Users\rzili\source\repos\LibraryMidGroup\LibraryMidGroup\bin\Debug\netcoreapp3.0\LibraryMidGroup.exe
+C:\Users\rzili\source\repos\LibraryMidGroup\LibraryMidGroup\bin\Debug\netcoreapp3.0\LibraryMidGroup.deps.json
+C:\Users\rzili\source\repos\LibraryMidGroup\LibraryMidGroup\bin\Debug\netcoreapp3.0\LibraryMidGroup.runtimeconfig.json
+C:\Users\rzili\source\repos\LibraryMidGroup\LibraryMidGroup\bin\Debug\netcoreapp3.0\LibraryMidGroup.runtimeconfig.dev.json
+C:\Users\rzili\source\repos\LibraryMidGroup\LibraryMidGroup\bin\Debug\netcoreapp3.0\LibraryMidGroup.dll
+C:\Users\rzili\source\repos\LibraryMidGroup\LibraryMidGroup\bin\Debug\netcoreapp3.0\LibraryMidGroup.pdb
+C:\Users\rzili\source\repos\LibraryMidGroup\LibraryMidGroup\obj\Debug\netcoreapp3.0\LibraryMidGroup.csprojAssemblyReference.cache
+C:\Users\rzili\source\repos\LibraryMidGroup\LibraryMidGroup\obj\Debug\netcoreapp3.0\LibraryMidGroup.AssemblyInfoInputs.cache
+C:\Users\rzili\source\repos\LibraryMidGroup\LibraryMidGroup\obj\Debug\netcoreapp3.0\LibraryMidGroup.AssemblyInfo.cs
+C:\Users\rzili\source\repos\LibraryMidGroup\LibraryMidGroup\obj\Debug\netcoreapp3.0\LibraryMidGroup.dll
+C:\Users\rzili\source\repos\LibraryMidGroup\LibraryMidGroup\obj\Debug\netcoreapp3.0\LibraryMidGroup.pdb
